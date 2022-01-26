@@ -1,0 +1,6 @@
+<div class="ui vertical animated button" tabindex="0">
+  <div class="hidden content">Shop</div>
+  <div class="visible content">
+    <i class="shop icon"></i>
+  </div>
+  https://dribbble.com/shots/5427358-In-button-status?utm_source=Clipboard_Shot&utm_campaign=colder&utm_content=In-button%20status&utm_medium=Social_Share
